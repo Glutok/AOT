@@ -30,7 +30,8 @@
 - Справочники (заводы, этапы, календарь)
 
 ## 📸 Скриншот дашборда
-![Dashboard Screenshot](dashboard.png)
+<img width="1951" height="1099" alt="Screenshot AOT" src="https://github.com/user-attachments/assets/2dfda225-09f9-4e53-a384-51b724b29a12" />
+
 
 ## 🔍 Основные возможности
 - Анализ % опозданий по маршрутам, неделям, этапам
